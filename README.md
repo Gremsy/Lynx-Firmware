@@ -25,4 +25,4 @@ various industrial applications.
 - Gimbal will dectect automatically when initialization and pop-up error on the
 new gTune with troubleshooting guide.
 
-## Start-up at a random position.****
+## Start-up at a random position.
