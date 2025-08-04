@@ -10,7 +10,7 @@ Gremsy Lynx payload firmware
 
 ## Gimbal mounting position
 - Normal: Gimbal works in Lock Mode/Follow Mode/Mapping Mode
-- 
+  
 ## Adapting to decrease Pan's drift behavior
 
 ## Go to home position when switching the gimbal mode automatically.
